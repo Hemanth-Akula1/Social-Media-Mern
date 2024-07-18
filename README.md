@@ -1,7 +1,7 @@
 <h1 align='center'>Aliferous Social🧡</h1>
 <p align='center'>A social media web application with features like creating posts, adding likes and unlikes, following users, deleting posts, commenting on posts etc.</p>
 <p float='center' align='center'>
-<img src='https://github.com/sumana2001/social-media/blob/main/ss.png' width='750'>
+<img src='https://github.com/Hemanth-Akula1/Social-Media-Mern/blob/main/ss.png?raw=true' width='750'>
 </p>
 
 ## Web-Application features✨

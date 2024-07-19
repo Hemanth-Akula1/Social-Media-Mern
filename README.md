@@ -42,7 +42,7 @@ npm install -g create-react-app
 
 Clone the project in localhost
 ```bash
-git clone https://github.com/sumana2001/social-media.git
+git clone https://github.com/Hemanth-Akula1/Social-Media-Mern
 ```
 Navigate to client folder
 ```bash
